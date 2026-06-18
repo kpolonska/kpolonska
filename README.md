@@ -1,7 +1,3 @@
-# Hi, I'm Kristina
-
-I love building stuff.
-
 ## Uni Projects
 
 - **[Lambda Calculus Interpreter](https://github.com/kpolonska/lambda-calculus-interpretator)** – Interpreter of Lambda expressions on Scala.

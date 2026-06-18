@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kristina
+
+I love building stuff.
+
+## Uni Projects
+
+- **[Lambda Calculus Interpreter](https://github.com/kpolonska/lambda-calculus-interpretator)** – Interpreter of Lambda expressions on Scala.
+
+## Embedded Project
+
+- **[Memory Allocator on C](https://github.com/kpolonska/memory-allocator)** – Simple implementation of malloc(), calloc(), realloc() and free().
 
 <!--
 **kpolonska/kpolonska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

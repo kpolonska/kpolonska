@@ -3,7 +3,7 @@
 - **[Lambda Calculus Interpreter](https://github.com/kpolonska/lambda-calculus-interpretator)** – Interpreter of Lambda expressions on Scala.
 - **[Terms of Service Reader](https://github.com/kpolonska/terms-of-service-reader)** – Browser extension to read ToS and detect potential threats to one's autonomy.
 
-## Embedded Project
+## Embedded Projects
 
 - **[Memory Allocator on C](https://github.com/kpolonska/memory-allocator)** – Simple implementation of malloc(), calloc(), realloc() and free().
 
